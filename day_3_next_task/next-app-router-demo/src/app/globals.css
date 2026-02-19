@@ -1,3 +1,4 @@
+@import "tailwindcss";
 :root {
   --font-base: 16px;
   --font-sm: 14px;
