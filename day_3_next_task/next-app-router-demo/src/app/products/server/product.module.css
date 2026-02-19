@@ -1,0 +1,47 @@
+.container {
+  padding: 24px;
+}
+
+.header {
+  margin-bottom: 16px;
+}
+
+.heading {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #e5e7eb;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  outline: none;
+}
+
+.item:hover {
+  background-color: #dbeafe;
+  transform: scale(1.01);
+}
+
+.item:focus {
+  box-shadow: 0 0 0 2px #60a5fa;
+}
+
+.title {
+  font-weight: 500;
+}
+
+.price {
+  color: #2563eb;
+  font-weight: 600;
+}

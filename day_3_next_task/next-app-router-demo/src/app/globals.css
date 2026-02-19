@@ -1,0 +1,15 @@
+:root {
+  --font-base: 16px;
+  --font-sm: 14px;
+  --font-lg: 18px;
+  --font-xl: 22px;
+}
+
+html {
+  font-size: var(--font-base);
+}
+
+body {
+  font-family: Inter, system-ui, Arial, sans-serif;
+  margin: 0;
+}
