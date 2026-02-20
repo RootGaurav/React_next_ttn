@@ -1,0 +1,49 @@
+{
+  "teachers": [
+    { "id": 1, "name": "Rahul Sharma", "subject": "Maths" },
+    { "id": 2, "name": "Monika Verma", "subject": "Science" },
+    { "id": 3, "name": "Anisha Patel", "subject": "English" },
+    { "id": 4, "name": "Neha Singh", "subject": "History" },
+    { "id": 5, "name": "Tarak Mehta", "subject": "Computer" }
+  ],
+  "students": [
+  { "id": 1, "name": "Aarav Kulkarni", "teacherId": 1 },
+  { "id": 2, "name": "Ritesh Choudhary", "teacherId": 1 },
+  { "id": 3, "name": "Kabir Malhotra", "teacherId": 1 },
+
+  { "id": 4, "name": "Meera Iyer", "teacherId": 2 },
+  { "id": 5, "name": "Nandini Deshpande", "teacherId": 2 },
+  { "id": 6, "name": "Sahil Ahuja", "teacherId": 2 },
+
+  { "id": 7, "name": "Dhruv Parekh", "teacherId": 3 },
+  { "id": 8, "name": "Ayaan Siddiqui", "teacherId": 3 },
+  { "id": 9, "name": "Tanmay Gokhale", "teacherId": 3 },
+
+  { "id": 10, "name": "Rhea Mukherjee", "teacherId": 4 },
+  { "id": 11, "name": "Prateek Srivastava", "teacherId": 4 },
+  { "id": 12, "name": "Ira Banerjee", "teacherId": 4 },
+
+  { "id": 13, "name": "Ankit Solanki", "teacherId": 5 },
+  { "id": 14, "name": "Kunal Purohit", "teacherId": 5 },
+  { "id": 15, "name": "Yuvraj Shekhawat", "teacherId": 5 },
+
+  { "id": 16, "name": "Shreya Chatterjee", "teacherId": 1 },
+  { "id": 17, "name": "Mohammad Faizan", "teacherId": 2 },
+  { "id": 18, "name": "Lakshya Tomar", "teacherId": 3 },
+  { "id": 19, "name": "Pallavi Naik", "teacherId": 4 },
+  { "id": 20, "name": "Rohit Borkar", "teacherId": 5 },
+
+  { "id": 21, "name": "Eshan Sengupta", "teacherId": 1 },
+  { "id": 22, "name": "Tanya Luthra", "teacherId": 2 },
+  { "id": 23, "name": "Samar Qureshi", "teacherId": 3 },
+  { "id": 24, "name": "Keshav Pathak", "teacherId": 4 },
+  { "id": 25, "name": "Omkar Sawant", "teacherId": 5 },
+
+  { "id": 26, "name": "Vedant Kuldeep", "teacherId": 1 },
+  { "id": 27, "name": "Alisha Mirza", "teacherId": 2 },
+  { "id": 28, "name": "Niraj Lohar", "teacherId": 3 },
+  { "id": 29, "name": "Harini Subramanian", "teacherId": 4 },
+  { "id": 30, "name": "Armaan Contractor", "teacherId": 5 }
+]
+
+}
